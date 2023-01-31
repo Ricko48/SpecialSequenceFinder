@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RWS-coding-assignment", "RWS-coding-assignment\RWS-coding-assignment.csproj", "{499ABBC6-DD4D-4001-BD44-CD76955113AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RWS-coding-assignment.Tests", "RWS-coding-assignment.Tests\RWS-coding-assignment.Tests.csproj", "{4A334919-3E78-4EB9-A59F-760E64E4928B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{499ABBC6-DD4D-4001-BD44-CD76955113AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{499ABBC6-DD4D-4001-BD44-CD76955113AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{499ABBC6-DD4D-4001-BD44-CD76955113AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{499ABBC6-DD4D-4001-BD44-CD76955113AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A334919-3E78-4EB9-A59F-760E64E4928B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A334919-3E78-4EB9-A59F-760E64E4928B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A334919-3E78-4EB9-A59F-760E64E4928B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A334919-3E78-4EB9-A59F-760E64E4928B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {711F9F7F-1CB7-4AB7-8D17-30283A4408D8}
+	EndGlobalSection
+EndGlobal
